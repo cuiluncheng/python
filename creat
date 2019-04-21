@@ -2,5 +2,5 @@ echo "# python" >> README.md
 git init
 git add README.md
 git commit -m"frist commit"
-git remote add origin https://github.com/cuiluncheng/python-learn.git 
+git remote add origin https://github.com/cuiluncheng/python.git 
 git push -u origin master
